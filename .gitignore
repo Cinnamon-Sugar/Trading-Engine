@@ -1,0 +1,17 @@
+# 忽略虚拟环境
+venv/
+
+# 忽略 Python 编译缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 忽略 Jupyter Notebook 的 checkpoint
+.ipynb_checkpoints/
+
+# 忽略 VS Code 项目设置（可选）
+.vscode/
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
